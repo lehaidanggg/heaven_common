@@ -1,7 +1,7 @@
 name: heaven_common
 description: "Plugin of heaven team"
 version: 0.0.1
-homepage:
+homepage: https://github.com/lehaidangzdin/heaven_common.git
 
 environment:
   sdk: '>=3.3.0 <4.0.0'
